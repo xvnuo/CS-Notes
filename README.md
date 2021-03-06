@@ -23,13 +23,28 @@
 #### 4.二叉树
 
 - [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
+
 - [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
+
 - [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)--设置左右子树中间递归变量
+
 - [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)--转换成左右子树的递归判断
+
+- [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)--队列实现二叉树层序遍历
+
+- [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)--层序遍历/队列实现/分层
+
+- [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)--层序遍历/队列实现/逆序
+
+- [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)--二叉搜索树后序遍历特性
+
+  
 
 #### 5.栈和队列
 
 - [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)
+- [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)--头插法链表设计/栈的设计
+- [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)--堆栈弹出、压入序列模拟
 
 #### 6.动态规划
 
@@ -46,6 +61,7 @@
 
 - [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)--深度优先搜索
 - [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)--和上一道题类似，在矩阵中搜索
+- [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)--递归/深度优先搜索
 
 #### 9.位运算
 
@@ -65,7 +81,11 @@
 
 - [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)--merge或直接遍历
 
+#### 13.哈希表
 
+- [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)--哈希表一一对应random、next关系
+
+  
 
 ## 三.知识点复盘记录
 
@@ -73,5 +93,8 @@
 | ---- | -------------------------------------- | ------------------------------------------------------------ |
 | 3.03 | Java基础知识                           | 把上个学期Java课的笔记内容重新回顾了一遍，并发多线程等直接跳过了 |
 | 3.04 | Java基础\Java容器系统整理完毕          | 跟着CSNotes把容器和一些基础知识仔细看了一遍                  |
-| 3.05 | Java并发--线程、锁、同步机制等整理完毕 | CSNotes--Java并发归纳完毕                                    |
+| 3.05 | Java并发--线程、锁、同步机制等整理完毕 | CSNotes--Java并发归纳完毕，剑指Offer-二刷到29                |
+|      |                                        |                                                              |
+|      |                                        |                                                              |
+|      |                                        |                                                              |
 
